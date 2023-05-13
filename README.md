@@ -1,2 +1,5 @@
 # aws-cicd-demo
-Demonstrate CICD Pipeline creation with AWS CDK
+Demonstrate AWS CI CD Pipeline creation with AWS CDK
+
+Getting started
+
